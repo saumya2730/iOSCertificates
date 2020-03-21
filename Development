@@ -20,6 +20,21 @@ Development - This certificate is used to cryptographically sign an app. An app 
 Team members who want to enable code signing on a different Mac must transfer their developer profile as described in 
 Safeguarding and Transferring Your Signing and Provisioning Assets.
 
+A development team consists of individuals with the following roles :
+1. Team Agent
+   There is only one team agent per development team. This person is the original enrollee accepted into the iOS Developer 
+   Program. The team agent is the primary contact for the development team and is responsible for accepting all iOS Developer 
+   Program agreements. The agent has access to all iOS Provisioning Portal capabilities and has all of the privileges of a 
+   team admin and a team member.
+2. Team Admin
+   All teams with multiple members require at least two team admins, including the team agent. There is no maximum for the 
+   number of team admins. Team admins have all of the same privileges as team agents except for signing legal agreements. 
+   Team admins are also team members.
+3. Team Member
+   A development team can have as many team members as necessary. Team members can request development certificates and 
+   download development provisioning profiles
+
+
 APP ID :
 An app ID has two parts: the team ID followed by the bundle ID search string. 
 
