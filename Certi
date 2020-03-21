@@ -1,7 +1,6 @@
 Development Phase - We create a development provisioning profile so that our team can run app on iOS devices specifically 
                     configured for development. It is important to test our app on actual devices, not just in the iOS Simulator. 
 
-Distribution Phase -  We create a distribution provisioning profile for out team so that we can distribute our app.
 
 Development and Testing :
 1. Create your Team (Managing Team Members)
@@ -59,6 +58,8 @@ Things that are buncled in Development Provisioning Profile :
 1. An app ID that identifies the set of apps it authorizes to run
 2. A list of devices your team wants to use for testing, 
 3. A list of developers permitted to sign the app
+
+A provisioning profile is valid for one year. A device can be added to multiple provisioning profiles.
 
 
 
