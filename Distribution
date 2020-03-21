@@ -1,1 +1,6 @@
 Distribution Phase -  We create a distribution provisioning profile for out team so that we can distribute our app.
+
+Distribution :
+1. Distribution Provisioning Profile (iOS Distribution Certificates, App ID)
+2. Distribute (App Store, Adhoc Distribution, In-house Distribution)
+
