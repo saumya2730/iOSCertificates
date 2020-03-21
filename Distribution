@@ -6,22 +6,6 @@ Distribution :
 
 Each team can have only one active distribution certificate. The team admin can either use Xcode to create a distribution 
 certificate or manually request and download one from iOS Provisioning Portal.
-Development Team Roles and Responsibilities
-
-A development team consists of individuals with the following roles :
-1. Team Agent
-   There is only one team agent per development team. This person is the original enrollee accepted into the iOS Developer 
-   Program. The team agent is the primary contact for the development team and is responsible for accepting all iOS Developer 
-   Program agreements. The agent has access to all iOS Provisioning Portal capabilities and has all of the privileges of a 
-   team admin and a team member.
-2. Team Admin
-   All teams with multiple members require at least two team admins, including the team agent. There is no maximum for the 
-   number of team admins. Team admins have all of the same privileges as team agents except for signing legal agreements. 
-   Team admins are also team members.
-3. Team Member
-   A development team can have as many team members as necessary. Team members can request development certificates and 
-   download development provisioning profiles
-
 
 A team’s distribution certificate allows a developer to build an app for distribution. If your team wants to use another Mac 
 to create a distribution build, you need to transfer a copy of the distribution certificate as described in, Safeguarding 
