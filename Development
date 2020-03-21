@@ -1,14 +1,9 @@
 Development Phase - We create a development provisioning profile so that our team can run app on iOS devices specifically 
                     configured for development. It is important to test our app on actual devices, not just in the iOS Simulator. 
 
-
 Development and Testing :
 1. Create your Team (Managing Team Members)
 2. Development Provisioning Profile (Device IDs, iOS Development Certificates, App ID)
-
-Distribution :
-1. Distribution Provisioning Profile (iOS Distribution Certificates, App ID)
-2. Distribute (App Store, Adhoc Distribution, In-house Distribution)
 
 Development - This certificate is used to cryptographically sign an app. An app must be signed before it can run on an iOS device. 
               A team member can have only one active development certificate, but one certificate can be used in multiple apps.
